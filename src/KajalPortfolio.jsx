@@ -201,7 +201,7 @@ const CERTS = [
     title: "AZ-900: Microsoft Azure Fundamentals Exam Preparation",
     issuer: "Infosys Springboard",
     date: "Jun 6, 2026",
-    file: "./certificates/microsoft azure administrator.jpg",
+    file: "./certificates/microsoft azure administrator.pdf",
     verify: "https://verify.onwingspan.com",
     accent: "cyan",
   },
